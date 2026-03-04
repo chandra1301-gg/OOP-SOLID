@@ -52,7 +52,3 @@ javac BelajarLengkap.java
 # Jalankan program
 java BelajarLengkap
 
-![Java](https://img.shields.io/badge/Java-24-orange)
-![OOP](https://img.shields.io/badge/OOP-Implemented-brightgreen)
-![SOLID](https://img.shields.io/badge/SOLID-5%2F5-blue)
-![Build](https://img.shields.io/badge/Build-Passing-success)
