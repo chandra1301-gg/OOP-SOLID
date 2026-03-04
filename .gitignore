@@ -1,0 +1,32 @@
+# Compiled files
+*.class
+
+# VS Code
+.vscode/
+.settings/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
+*~
+
+# Build folders
+target/
+build/
+bin/
+
+# Environment (JANGAN UPLOAD!)
+.env
+*.properties
